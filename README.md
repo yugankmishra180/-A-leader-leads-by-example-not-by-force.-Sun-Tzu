@@ -19,5 +19,9 @@ A professional frontend project that generates real-time quotes using a public A
 1. Clone or download the repository
 2. Open `index.html` in your browser
 
+## 🌐 Live Demo
+https://yugankmishra180.github.io/-A-leader-leads-by-example-not-by-force.-Sun-Tzu/
+
+
 ## 👤 Author
 Yugank Mishra
