@@ -1,12 +1,12 @@
 # Professional Random Quote Generator
 
-A professional frontend project that generates random quotes using a public API.
+A professional frontend project that generates real-time quotes using a public API.
 
 ## 🚀 Features
-- Fetches real-time random quotes
-- Loader animation while fetching data
+- Random quotes using API
+- Loader animation
 - Copy quote to clipboard
-- Tweet quote instantly
+- Tweet quote button
 - Dynamic background color change
 - Clean and responsive UI
 
@@ -15,11 +15,8 @@ A professional frontend project that generates random quotes using a public API.
 - CSS
 - JavaScript
 
-## 🌐 Live Demo
-(Coming soon)
-
 ## 📂 How to Run
-1. Download or clone the repository
+1. Clone or download the repository
 2. Open `index.html` in your browser
 
 ## 👤 Author
